@@ -140,10 +140,10 @@ flutter test
 ## Image credits
 
 The three photos in `assets/images/` are from [Unsplash](https://unsplash.com). 
-[Ferr Studio
-Avatar1 - (https://unsplash.com/photos/a-cartoon-character-with-a-weird-haircut-G2Qjx1y9aAM)
-Avatar2 - (https://unsplash.com/photos/a-cartoon-character-with-pink-hair-and-a-pink-outfit-kApBCRq9EFs)
-Avatar3 - (https://unsplash.com/photos/a-person-wearing-a-green-frog-costume-Zc-D8Ra9xwE)]
+[Ferr Studio]
+[Avatar1](https://unsplash.com/photos/a-cartoon-character-with-a-weird-haircut-G2Qjx1y9aAM)
+[Avatar2](https://unsplash.com/photos/a-cartoon-character-with-pink-hair-and-a-pink-outfit-kApBCRq9EFs)
+[Avatar3](https://unsplash.com/photos/a-person-wearing-a-green-frog-costume-Zc-D8Ra9xwE)
 
 ## References
 
